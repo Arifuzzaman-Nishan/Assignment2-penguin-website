@@ -1,18 +1,50 @@
+.penguin-wid
+{
+    width: 291.11px;
+    height: 39.27px;
+}
+
 /* woman jacket section start width for each part*/
-.len-1
+.card-size-1
 {
-    width: 293px;
-    /* height: 150px; */
-    border-radius: 0% 5%;
+    width: 370px;
+    height: 550px;
 }
-.len-2
+.image-div-size-1
 {
     width: 293px;
-    padding-left: 20px;
+    height: 293px;
 }
-.len-3
+
+.card-size-2
 {
-    width: 293px;
+    width: 370px;
+    height: 550px;
+}
+.image-div-size-2
+{
+    width: 334px;
+    height: 289px;
+}
+.image-size-2
+{
+    width: 203px;
+    height: 273px;
+}
+.card-size-3
+{
+    width: 370px;
+    height: 550px;
+}
+.image-div-size-3
+{
+    width: 334px;
+    height: 289px;
+}
+.image-size-3
+{
+    width: 210px;
+    height: 257px;
 }
 .back-g
 {
