@@ -77,5 +77,15 @@
 {
     width: 599px;
     height: 354.07px;
-
+}
+.best-seller-size
+{
+    width: 500px;
+    height: 500px;
+}
+.b-color
+{
+    background-color: rgb(189, 184, 184);
+    border-radius: 20px;
+    color: black;
 }
