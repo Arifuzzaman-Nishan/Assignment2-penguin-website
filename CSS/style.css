@@ -1,15 +1,16 @@
-#len-1
+/* woman jacket section start width for each part*/
+.len-1
 {
     width: 293px;
     /* height: 150px; */
     border-radius: 0% 5%;
 }
-#len-2
+.len-2
 {
     width: 293px;
     padding-left: 20px;
 }
-#len-3
+.len-3
 {
     width: 293px;
 }
@@ -23,3 +24,14 @@
 {
     height: 390px;
 }
+/* woman jacket section end width for each part*/
+/* man jacket start part */
+.man-hgh-1
+{
+    height: 460px;
+}
+.man-hgh-2
+{
+    height: 460px;
+}
+/* man jacket end part */
