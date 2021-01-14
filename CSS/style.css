@@ -1,0 +1,25 @@
+#len-1
+{
+    width: 293px;
+    /* height: 150px; */
+    border-radius: 0% 5%;
+}
+#len-2
+{
+    width: 293px;
+    padding-left: 20px;
+}
+#len-3
+{
+    width: 293px;
+}
+.back-g
+{
+    background-color: #eeecec;
+    border-radius: 5%;
+}
+/* woman jacket section image height */
+ .img-hgh
+{
+    height: 390px;
+}
